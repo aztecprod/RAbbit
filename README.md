@@ -9,6 +9,7 @@
 
 
 После выполнения скрипта consumer.py
+
 ![image](https://github.com/aztecprod/Rabbit/assets/25949605/0751c882-e0a6-42c9-93d8-e679e0004691)
 ![image](https://github.com/aztecprod/Rabbit/assets/25949605/5ab5b72e-4784-4cf1-a336-4a642d1fd1f0)
 
