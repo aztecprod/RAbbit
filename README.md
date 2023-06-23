@@ -1,4 +1,4 @@
-# Rabbit - Александр Шевцов
+# Очереди RabbitMQ - Александр Шевцов
 ![image](https://github.com/aztecprod/Rabbit/assets/25949605/dbc91d5a-8887-444a-9770-6e4f69dcca9f)
 ![image](https://github.com/aztecprod/Rabbit/assets/25949605/143f9693-b908-4d02-98d2-97358aac66db)
 ![image](https://github.com/aztecprod/Rabbit/assets/25949605/dc11fefe-53ef-4c64-8666-25f687319680)
