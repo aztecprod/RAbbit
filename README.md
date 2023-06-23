@@ -14,3 +14,6 @@
 ![image](https://github.com/aztecprod/Rabbit/assets/25949605/5ab5b72e-4784-4cf1-a336-4a642d1fd1f0)
 
 ![image](https://github.com/aztecprod/Rabbit/assets/25949605/78bc95a0-1664-483e-a9df-3a1d4b273e6e)
+
+Два хоста пингуются между собой,но почему-то в кластер не обьединяются. подскажите,пожалуйста в чем может быть проблема? При обьединение появляется такая ошибка.
+![image](https://github.com/aztecprod/Rabbit/assets/25949605/d53d817e-54b3-4d88-a068-aea3c47f6f6f)
